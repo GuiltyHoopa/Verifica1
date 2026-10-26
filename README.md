@@ -1,2 +1,5 @@
-# Verifica1
-esercizio/verifica
+Cariello Claudio 5C-Ti 
+index
+programmazione
+prenota
+contatti
